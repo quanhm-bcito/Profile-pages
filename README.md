@@ -14,6 +14,6 @@ Thể thao
 Nghe nhạc
 Chơi game
 ## Thồng tin liên hệ
-SDT 0343488628
+SĐT 0343488628
 Facebook https://www.facebook.com/hmq2410
 Zalo 0343488628
