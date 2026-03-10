@@ -4,7 +4,7 @@
 ## Thông tin cá nhân
 Tuổi: 25
 Học vấn: Học viện công nghệ bưu chính viễn thông
-Mục tiêu: Trở thành Fullstack Development
+Mục tiêu: Trở thành Fullstack Developer
 ## Kỹ năng
 Basic HTML
 Basic CSS
